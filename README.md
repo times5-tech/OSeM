@@ -1,0 +1,2 @@
+# OSeM
+Offline Secrets Manager
